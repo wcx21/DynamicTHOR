@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ethan Taylor",
+        "age": 42,
+        "gender": "Male",
+        "routine": "Ethan usually sleeps by 12 am and gets up at 6:30 am to get his children ready for school.",
+        "personality": [
+            "hardworking",
+            "loving",
+            "patient"
+        ],
+        "occupation": "Ethan Taylor is a software developer in a leading tech company, with a focus on developing educational software.",
+        "thoughts": "Ethan recently considered homeschooling his kids due to his dissatisfaction with the local education system and was researching curricula on 2024-02-04.",
+        "lifestyle": "Ethan enjoys family movie nights, barbecuing on weekends, and is a hobbyist photographer."
+    }
+]

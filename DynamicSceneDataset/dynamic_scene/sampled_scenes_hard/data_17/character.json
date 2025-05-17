@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chen Wei",
+        "age": 28,
+        "gender": "Male",
+        "routine": "Chen Wei sleeps around 11:30 pm and wakes up at 7:00 am to get to his engineering job.",
+        "personality": [
+            "analytical",
+            "meticulous",
+            "practical"
+        ],
+        "occupation": "Chen Wei is a civil engineer who works on infrastructure projects, with a steady 9-to-5 job at a construction company.",
+        "thoughts": "Chen Wei spent the weekend of 2024-02-03 assisting in the planning of his sister's wedding, which, despite the stress, he enjoyed thoroughly.",
+        "lifestyle": "Chen prefers a minimalistic home environment and engages in evening indoor rock climbing sessions for his health and pleasure."
+    },
+    {
+        "name": "Kazuo Tanaka",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Kazuo sleeps at 1 am and wakes at 8 am, usually starting his day with a traditional tea ceremony.",
+        "personality": [
+            "meticulous",
+            "respectful",
+            "intuitive"
+        ],
+        "occupation": "Kazuo Tanaka is a graphic designer working for a gaming company from 10 am to 7 pm.",
+        "thoughts": "Kazuo is currently focused on a new game's release set for February 3rd, 2024.",
+        "lifestyle": "He values a Zen-like environment at home to foster calmness and creativity."
+    },
+    {
+        "name": "Sophia Petrova",
+        "age": 38,
+        "gender": "Female",
+        "routine": "Sophia Petrova usually sleeps around 11:30pm and wakes up at 7am to prepare breakfast for her family.",
+        "personality": [
+            "compassionate",
+            "determined",
+            "imaginative"
+        ],
+        "occupation": "Sophia Petrova is a professional photographer. She has photoshoots scheduled at various times, including weekends.",
+        "thoughts": "Sophia Petrova is currently editing photos from a wedding she shot on February 2nd and is excited about an upcoming art gallery exhibit.",
+        "lifestyle": "Sophia Petrova enjoys the arts, loves attending theatre performances, and often experiments with vegan cooking recipes."
+    }
+]

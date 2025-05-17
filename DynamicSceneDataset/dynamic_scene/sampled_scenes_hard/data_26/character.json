@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Noah Leclerc",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Noah Leclerc usually sleeps around 11pm and wakes at 5am to take his dog for a walk before work.",
+        "personality": [
+            "efficient",
+            "dedicated",
+            "stoic"
+        ],
+        "occupation": "Noah Leclerc is a civil engineer who works for the city government, his hours are typically from 8am to 4pm.",
+        "thoughts": "Noah Leclerc is currently overseeing a bridge construction project that reached a critical phase on February 1st.",
+        "lifestyle": "Noah Leclerc is an avid hiker and spends most of his weekends on trails or planning his next outdoor adventure."
+    },
+    {
+        "name": "Parvati Singh",
+        "age": 26,
+        "gender": "Female",
+        "routine": "Parvati sleeps by 10:30 pm to wake at 5 am for yoga and preparation of her healthy meals.",
+        "personality": [
+            "health-conscious",
+            "organized",
+            "determined"
+        ],
+        "occupation": "Parvati Singh is a nutritionist who consults with clients at a wellness center from 9 am to 6 pm.",
+        "thoughts": "She's recently engaging in a personal challenge to go zero waste and reduce her environmental impact.",
+        "lifestyle": "Parvati's lifestyle is centered around wellness and sustainability, influencing her preference for eco-friendly home products."
+    },
+    {
+        "name": "Thomas Reed",
+        "age": 31,
+        "gender": "Male",
+        "routine": "Thomas usually goes to bed by 9:30 pm and wakes up at 4:45 am for his cycling training.",
+        "personality": [
+            "competitive",
+            "focused",
+            "disciplined"
+        ],
+        "occupation": "Thomas Reed is a professional cyclist with rigorous training schedules that often take him away from home.",
+        "thoughts": "Thomas was looking forward to an upcoming racing event and spent much of February 2, 2024, strategizing with his coach.",
+        "lifestyle": "Thomas adheres to a strict training regimen, often undergoing physiotherapy, and has a preference for high-protein meals."
+    }
+]

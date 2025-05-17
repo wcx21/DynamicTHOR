@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Carlos Mendoza",
+        "age": 51,
+        "gender": "Male",
+        "routine": "Carlos usually sleeps by midnight and wakes up at 7 am to take his dogs for a run.",
+        "personality": [
+            "sociable",
+            "passionate",
+            "generous"
+        ],
+        "occupation": "Carlos Mendoza is a chef who runs his own restaurant with hours usually from 3 pm to 11 pm.",
+        "thoughts": "He's contemplating a new menu change that he aims to introduce by February 3rd, 2024.",
+        "lifestyle": "Carlos enjoys a convivial lifestyle, loves hosting dinner parties, and prefers fresh, artisanal ingredients in his kitchen."
+    },
+    {
+        "name": "Sinead Byrne",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sinead typically sleeps at 10pm and wakes up at 6am, fitting in a quick yoga session before work.",
+        "personality": [
+            "outgoing",
+            "empathetic",
+            "resourceful"
+        ],
+        "occupation": "Sinead is a primary school teacher in Ireland with working hours from 8:30 am to 3:30 pm.",
+        "thoughts": "She's been planning a new outdoor learning program for her students and is excited to propose it at the staff meeting on 2nd February 2024.",
+        "lifestyle": "Sinead favors wholesome, organic meals, enjoys weekend hikes, and has her living space filled with plants and natural light."
+    }
+]

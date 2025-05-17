@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Isabella Martinez",
+        "age": 33,
+        "gender": "Female",
+        "routine": "Isabella Martinez usually falls asleep by 10:30pm and wakes up at 5:30am for her morning run.",
+        "personality": [
+            "disciplined",
+            "outgoing",
+            "optimistic"
+        ],
+        "occupation": "Isabella Martinez is a high school teacher who teaches Spanish. Her working hours are from 8am to 3pm on weekdays.",
+        "thoughts": "Isabella Martinez is considering enrolling in a Master's degree in Education to enhance her career and was researching programs over the weekend.",
+        "lifestyle": "Isabella Martinez enjoys social gatherings and frequently invites friends over for dinner parties which often include traditional Latin dancing."
+    },
+    {
+        "name": "Kobus Botha",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Kobus Botha usually goes to bed by 9pm and is up by 5am for a light workout.",
+        "personality": [
+            "wise",
+            "content",
+            "authoritative"
+        ],
+        "occupation": "Kobus is a retired wildlife conservationist, but still gives guest lectures at universities.",
+        "thoughts": "He is considering writing a memoir about his experiences and thought more seriously about it after visiting his old reserve on February 1st, 2024.",
+        "lifestyle": "Kobus enjoys a South African braai, has a deep appreciation for nature photography, and keeps a well-maintained garden."
+    },
+    {
+        "name": "Kazuo Tanaka",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Kazuo sleeps at 1 am and wakes at 8 am, usually starting his day with a traditional tea ceremony.",
+        "personality": [
+            "meticulous",
+            "respectful",
+            "intuitive"
+        ],
+        "occupation": "Kazuo Tanaka is a graphic designer working for a gaming company from 10 am to 7 pm.",
+        "thoughts": "Kazuo is currently focused on a new game's release set for February 3rd, 2024.",
+        "lifestyle": "He values a Zen-like environment at home to foster calmness and creativity."
+    }
+]

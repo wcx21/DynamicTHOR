@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Lina Araya",
+        "age": 15,
+        "gender": "Female",
+        "routine": "Lina Araya sleeps at around 10pm and wakes up at 6:30 am for school.",
+        "personality": [
+            "adventurous",
+            "bright",
+            "social"
+        ],
+        "occupation": "Lina is a high school student, with before-school soccer practice and study sessions occupying her weekdays.",
+        "thoughts": "She has been admiring the new mural in her school's art department, completed on February 2nd, 2024, and is inspired to join the art club.",
+        "lifestyle": "Lina favors Central American dishes, spends her free time exploring the city with friends, and is always on the lookout for new experiences."
+    },
+    {
+        "name": "Kwame Nkrumah",
+        "age": 29,
+        "gender": "Male",
+        "routine": "Kwame generally sleeps at 1am and wakes up at 8:30am, ready for his day.",
+        "personality": [
+            "innovative",
+            "energetic",
+            "competitive"
+        ],
+        "occupation": "Kwame is an entrepreneur who runs his own tech startup, often working late hours to meet deadlines.",
+        "thoughts": "He's been consumed with pitch preparations for venture capitalists scheduled for February 2nd, 2024.",
+        "lifestyle": "Kwame enjoys a diet rich in West African cuisine and prefers traditional dishes. He is quite health-conscious and spends his leisure time playing soccer with friends. His home office is equipped with the latest tech gadgets to keep up with his work demands."
+    },
+    {
+        "name": "Kobus Botha",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Kobus Botha usually goes to bed by 9pm and is up by 5am for a light workout.",
+        "personality": [
+            "wise",
+            "content",
+            "authoritative"
+        ],
+        "occupation": "Kobus is a retired wildlife conservationist, but still gives guest lectures at universities.",
+        "thoughts": "He is considering writing a memoir about his experiences and thought more seriously about it after visiting his old reserve on February 1st, 2024.",
+        "lifestyle": "Kobus enjoys a South African braai, has a deep appreciation for nature photography, and keeps a well-maintained garden."
+    }
+]

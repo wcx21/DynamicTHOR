@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Geoffrey Atkins",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Geoffrey goes to bed at 9pm and is up by 5:00 am to take his dog for a walk.",
+        "personality": [
+            "calm",
+            "reflective",
+            "steady"
+        ],
+        "occupation": "Now retired, Geoffrey was a history professor and spends his time writing articles and giving guest lectures.",
+        "thoughts": "He is preparing a lecture on modern history to be delivered on the 3rd of February, 2024, which brings back memories of his teaching days.",
+        "lifestyle": "Geoffrey enjoys a slow-paced lifestyle, often reads historical biographies, and has a preference for classical music and quiet evenings with a glass of fine whiskey."
+    },
+    {
+        "name": "Aleksey Chernov",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Aleksey Chernov sleeps at 12am and wakes at 7am to walk his dog.",
+        "personality": [
+            "stoic",
+            "determined",
+            "focused"
+        ],
+        "occupation": "Aleksey is a computer security analyst who works a standard 9 am to 5 pm day.",
+        "thoughts": "He is anxious about a server breach his company faced and has been working extra hours since February 1st, 2024, to resolve the situation.",
+        "lifestyle": "He prefers hearty Russian meals, relaxes by ice fishing on weekends, and has a functional and straightforward home setup."
+    }
+]

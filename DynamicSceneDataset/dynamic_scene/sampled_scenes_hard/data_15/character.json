@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Sunita Verma",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sunita Verma sleeps by 12 am and wakes at 7 am to prepare her kids for school.",
+        "personality": [
+            "warm",
+            "nurturing",
+            "efficient"
+        ],
+        "occupation": "Sunita Verma is a software developer who often works remotely to balance her job and household responsibilities.",
+        "thoughts": "She's excited about her daughter's dance recital scheduled for February 1st, 2024.",
+        "lifestyle": "Sunita leads a busy, family-oriented lifestyle and prefers cooking at home over dining out."
+    },
+    {
+        "name": "Raakel Vartiainen",
+        "age": 28,
+        "gender": "Female",
+        "routine": "Raakel sleeps at around 12am and wakes up at 7am, then cycles to her studio.",
+        "personality": [
+            "innovative",
+            "independent",
+            "resilient"
+        ],
+        "occupation": "Raakel is a graphic designer in Helsinki, typically working from 9 am to 5 pm at a local firm.",
+        "thoughts": "She's excited about her new freelance project which will start rolling out on February 2nd, 2024, but also a bit nervous about balancing the additional workload.",
+        "lifestyle": "Raakel prefers minimalistic living, enjoys foraging and cooking with locally-sourced ingredients, and loves to unwind with indie music on vinyl."
+    }
+]

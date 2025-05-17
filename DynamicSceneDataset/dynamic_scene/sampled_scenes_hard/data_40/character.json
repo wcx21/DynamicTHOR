@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sophia Petrova",
+        "age": 38,
+        "gender": "Female",
+        "routine": "Sophia Petrova usually sleeps around 11:30pm and wakes up at 7am to prepare breakfast for her family.",
+        "personality": [
+            "compassionate",
+            "determined",
+            "imaginative"
+        ],
+        "occupation": "Sophia Petrova is a professional photographer. She has photoshoots scheduled at various times, including weekends.",
+        "thoughts": "Sophia Petrova is currently editing photos from a wedding she shot on February 2nd and is excited about an upcoming art gallery exhibit.",
+        "lifestyle": "Sophia Petrova enjoys the arts, loves attending theatre performances, and often experiments with vegan cooking recipes."
+    },
+    {
+        "name": "Elise Martin",
+        "age": 31,
+        "gender": "Female",
+        "routine": "Elise is usually in bed by 10pm and wakes up at 5:45am for an early morning run.",
+        "personality": [
+            "determined",
+            "articulate",
+            "resourceful"
+        ],
+        "occupation": "Elise works as a civil lawyer and spends her workdays from 9am to 6pm in court or preparing cases in her office.",
+        "thoughts": "She has been pondering the implications of a recent ruling and is preparing an appeal to submit by February 4th, 2024.",
+        "lifestyle": "Following a mostly vegan diet, Elise enjoys fresh, farm-to-table meals and takes pride in her urban gardening project. For relaxation, she prefers reading legal thrillers and practices mindfulness meditation to manage her stressful work life."
+    },
+    {
+        "name": "Takeshi Kobayashi",
+        "age": 52,
+        "gender": "Male",
+        "routine": "Takeshi goes to bed by 11pm and wakes up by 5am to tend to his small garden",
+        "personality": [
+            "disciplined",
+            "innovative",
+            "trustworthy"
+        ],
+        "occupation": "Takeshi is a robotics engineer, usually at his lab from 9 am until 7 pm.",
+        "thoughts": "Recently, he's been obsessed with the potential of AI in elder care, daydreaming about this on the morning of February 1st, 2024.",
+        "lifestyle": "Takeshi enjoys precision in his work and leisure, follows a predominantly Japanese diet with occasional Western influences, and has an appreciation for jazz music."
+    }
+]

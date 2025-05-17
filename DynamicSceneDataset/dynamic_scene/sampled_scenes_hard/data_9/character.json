@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Leila Zahra",
+        "age": 19,
+        "gender": "Female",
+        "routine": "Leila is a night owl, often sleeping at 2am and waking up at 10am, just in time for her college classes.",
+        "personality": [
+            "vivacious",
+            "inquisitive",
+            "bold"
+        ],
+        "occupation": "She's an undergraduate studying International Relations with a keen interest in humanitarian work.",
+        "thoughts": "Leila has been excited about the Model UN event scheduled for February 2nd, 2024, where she will represent her views on global peace.",
+        "lifestyle": "She enjoys a vibrant dorm life, is always eager to try out new cuisines, and stays active by participating in campus social events."
+    },
+    {
+        "name": "Ethan Ngugi",
+        "age": 21,
+        "gender": "Male",
+        "routine": "Ethan Ngugi generally goes to sleep at 1am and wakes up at 10am, as his university classes start late.",
+        "personality": [
+            "adventurous",
+            "energetic",
+            "charismatic"
+        ],
+        "occupation": "Ethan Ngugi is an architecture student and works part-time at a local design studio.",
+        "thoughts": "Ethan Ngugi is excited about a design competition he entered, with results being announced on February 3rd.",
+        "lifestyle": "Ethan Ngugi is very active on social media and enjoys urban exploration with his friends in their free time."
+    },
+    {
+        "name": "Kazuo Tanaka",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Kazuo sleeps at 1 am and wakes at 8 am, usually starting his day with a traditional tea ceremony.",
+        "personality": [
+            "meticulous",
+            "respectful",
+            "intuitive"
+        ],
+        "occupation": "Kazuo Tanaka is a graphic designer working for a gaming company from 10 am to 7 pm.",
+        "thoughts": "Kazuo is currently focused on a new game's release set for February 3rd, 2024.",
+        "lifestyle": "He values a Zen-like environment at home to foster calmness and creativity."
+    },
+    {
+        "name": "Sunita Verma",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sunita Verma sleeps by 12 am and wakes at 7 am to prepare her kids for school.",
+        "personality": [
+            "warm",
+            "nurturing",
+            "efficient"
+        ],
+        "occupation": "Sunita Verma is a software developer who often works remotely to balance her job and household responsibilities.",
+        "thoughts": "She's excited about her daughter's dance recital scheduled for February 1st, 2024.",
+        "lifestyle": "Sunita leads a busy, family-oriented lifestyle and prefers cooking at home over dining out."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    },
+    {
+        "name": "Elena Petrova",
+        "age": 34,
+        "gender": "Female",
+        "routine": "Elena sleeps at 10pm and wakes up at 6am to prepare her children for school before heading to work.",
+        "personality": [
+            "warm",
+            "organized",
+            "resilient"
+        ],
+        "occupation": "Elena is a high school teacher, teaching history in St. Petersburg. Her school day starts at 8 am and ends at 3 pm.",
+        "thoughts": "Elena recently has been concerned about her son's performance in school and is considering getting him a tutor. She plans to discuss this with her husband over the weekend.",
+        "lifestyle": "Elena follows a typical Russian cuisine, enjoys classical music to unwind, and spends her weekends at the local park with her family. She prefers reading historical novels in her spare time."
+    },
+    {
+        "name": "Geoffrey Atkins",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Geoffrey goes to bed at 9pm and is up by 5:00 am to take his dog for a walk.",
+        "personality": [
+            "calm",
+            "reflective",
+            "steady"
+        ],
+        "occupation": "Now retired, Geoffrey was a history professor and spends his time writing articles and giving guest lectures.",
+        "thoughts": "He is preparing a lecture on modern history to be delivered on the 3rd of February, 2024, which brings back memories of his teaching days.",
+        "lifestyle": "Geoffrey enjoys a slow-paced lifestyle, often reads historical biographies, and has a preference for classical music and quiet evenings with a glass of fine whiskey."
+    }
+]

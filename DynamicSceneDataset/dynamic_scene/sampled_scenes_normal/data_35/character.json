@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Elise Martin",
+        "age": 31,
+        "gender": "Female",
+        "routine": "Elise is usually in bed by 10pm and wakes up at 5:45am for an early morning run.",
+        "personality": [
+            "determined",
+            "articulate",
+            "resourceful"
+        ],
+        "occupation": "Elise works as a civil lawyer and spends her workdays from 9am to 6pm in court or preparing cases in her office.",
+        "thoughts": "She has been pondering the implications of a recent ruling and is preparing an appeal to submit by February 4th, 2024.",
+        "lifestyle": "Following a mostly vegan diet, Elise enjoys fresh, farm-to-table meals and takes pride in her urban gardening project. For relaxation, she prefers reading legal thrillers and practices mindfulness meditation to manage her stressful work life."
+    },
+    {
+        "name": "Amir Patel",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Amir usually goes to sleep by 10:30 pm and wakes up at 5:30 am for his morning run.",
+        "personality": [
+            "driven",
+            "pragmatic",
+            "social"
+        ],
+        "occupation": "Amir Patel is a financial analyst for a multinational corporation, often working from 9 am to 6 pm in his downtown office.",
+        "thoughts": "Amir has been contemplating investing in cryptocurrency and spent the evening of 2024-02-03 researching the latest market trends.",
+        "lifestyle": "Amir is a fitness enthusiast who enjoys meal prepping and follows a strict dietary plan; he seldom eats out."
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Miyuki Tanaka",
+        "age": 55,
+        "gender": "Female",
+        "routine": "Miyuki sleeps by 9pm and wakes up at 5am to meditate and practice tai chi.",
+        "personality": [
+            "disciplined",
+            "hospitable",
+            "graceful"
+        ],
+        "occupation": "Miyuki is a tea ceremony master in Kyoto, teaching classes from 10am to 4pm.",
+        "thoughts": "Miyuki is looking forward to her daughter visiting from Tokyo next week, planning to host a special family tea ceremony.",
+        "lifestyle": "Miyuki lives a minimalist lifestyle, enjoys traditional Japanese meals, and takes pride in her Zen garden, which she tends to daily."
+    },
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Emeka Nwabueze",
+        "age": 35,
+        "gender": "Male",
+        "routine": "Emeka usually sleeps by 10pm and wakes up at 5:30 am to start his day with meditation and journaling.",
+        "personality": [
+            "thoughtful",
+            "disciplined",
+            "passionate"
+        ],
+        "occupation": "Emeka is a civil engineer who works primarily on infrastructure projects across Africa.",
+        "thoughts": "Recently, Emeka has been considering a proposal for a new project in Ghana, which he must decide on by February 4th, 2024. This decision weighs heavily on him, as it impacts his family time.",
+        "lifestyle": "Emeka follows a predominantly plant-based diet, enjoys long runs on the weekend, and has a love for Afrobeat music. He values a clean and organized living space and frequently rearranges furniture to optimize the flow of his home."
+    },
+    {
+        "name": "Liam Murphy",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Liam goes to bed at around 10:30pm and wakes up at 6am to take his dog for a run.",
+        "personality": [
+            "reliable",
+            "warm",
+            "focused"
+        ],
+        "occupation": "Liam is a secondary school teacher, teaching history. He works from 8am to 4pm and occasionally tutors in the evenings.",
+        "thoughts": "He's been excitedly setting up a new interactive history exhibit for his students, with the launch happening on February 4th, 2024.",
+        "lifestyle": "Liam opts for a hearty Irish diet with an appreciation for stews and bread. He enjoys woodworking in his shed as a form of relaxation and often experiments with crafting traditional furniture. His home reflects a rustic and cozy d\u00e9cor theme."
+    }
+]

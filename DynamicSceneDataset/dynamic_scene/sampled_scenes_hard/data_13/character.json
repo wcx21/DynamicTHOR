@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    },
+    {
+        "name": "Jia Li",
+        "age": 47,
+        "gender": "Female",
+        "routine": "Jia Li typically sleeps at 11:30 pm and wakes at 6:30 am to practice tai chi.",
+        "personality": [
+            "meticulous",
+            "compassionate",
+            "practical"
+        ],
+        "occupation": "She manages a traditional Chinese medicine clinic and works from 8 am to 6 pm.",
+        "thoughts": "Lately, she's been pondering about ways to integrate technology into her practice to reach more people, especially after reading a relevant article on February 1st, 2024.",
+        "lifestyle": "Jia Li enjoys a balance of yin and yang in her diet, practices meditation, and always brews herself a pot of oolong tea while working."
+    },
+    {
+        "name": "Kwame Nkrumah",
+        "age": 29,
+        "gender": "Male",
+        "routine": "Kwame generally sleeps at 1am and wakes up at 8:30am, ready for his day.",
+        "personality": [
+            "innovative",
+            "energetic",
+            "competitive"
+        ],
+        "occupation": "Kwame is an entrepreneur who runs his own tech startup, often working late hours to meet deadlines.",
+        "thoughts": "He's been consumed with pitch preparations for venture capitalists scheduled for February 2nd, 2024.",
+        "lifestyle": "Kwame enjoys a diet rich in West African cuisine and prefers traditional dishes. He is quite health-conscious and spends his leisure time playing soccer with friends. His home office is equipped with the latest tech gadgets to keep up with his work demands."
+    },
+    {
+        "name": "Liam Taylor",
+        "age": 20,
+        "gender": "Male",
+        "routine": "Liam is a college student who sleeps around 1am after late-night study sessions and wakes up at 8am for classes.",
+        "personality": [
+            "innovative",
+            "independent",
+            "social"
+        ],
+        "occupation": "Liam is studying computer science in Sydney, with classes often scattered throughout the day.",
+        "thoughts": "Liam has been brainstorming a new mobile app idea for his entrepreneurship course and is planning a pitch to potential on the weekend.",
+        "lifestyle": "Liam enjoys a casual lifestyle, prefers takeaway food, is active in the tech community, and loves surfing on weekends."
+    }
+]

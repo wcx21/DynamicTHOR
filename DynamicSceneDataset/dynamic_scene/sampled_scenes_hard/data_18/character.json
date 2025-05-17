@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Lars Ekberg",
+        "age": 45,
+        "gender": "Male",
+        "routine": "Lars Ekberg typically sleeps by 10:30 pm and wakes at 5:30 am to enjoy a morning run.",
+        "personality": [
+            "practical",
+            "disciplined",
+            "stoic"
+        ],
+        "occupation": "Lars Ekberg is a seasoned architect who works for a firm with strict office hours of 9 am to 5 pm.",
+        "thoughts": "Recently, Lars has been focusing on a sustainable building project that is due for presentation on February 4th, 2024.",
+        "lifestyle": "Lars follows a minimalistic Scandinavian lifestyle, preferring simple, functional design in both his home and work."
+    },
+    {
+        "name": "Kobus Botha",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Kobus Botha usually goes to bed by 9pm and is up by 5am for a light workout.",
+        "personality": [
+            "wise",
+            "content",
+            "authoritative"
+        ],
+        "occupation": "Kobus is a retired wildlife conservationist, but still gives guest lectures at universities.",
+        "thoughts": "He is considering writing a memoir about his experiences and thought more seriously about it after visiting his old reserve on February 1st, 2024.",
+        "lifestyle": "Kobus enjoys a South African braai, has a deep appreciation for nature photography, and keeps a well-maintained garden."
+    },
+    {
+        "name": "Lina Araya",
+        "age": 15,
+        "gender": "Female",
+        "routine": "Lina Araya sleeps at around 10pm and wakes up at 6:30 am for school.",
+        "personality": [
+            "adventurous",
+            "bright",
+            "social"
+        ],
+        "occupation": "Lina is a high school student, with before-school soccer practice and study sessions occupying her weekdays.",
+        "thoughts": "She has been admiring the new mural in her school's art department, completed on February 2nd, 2024, and is inspired to join the art club.",
+        "lifestyle": "Lina favors Central American dishes, spends her free time exploring the city with friends, and is always on the lookout for new experiences."
+    },
+    {
+        "name": "John Carter",
+        "age": 44,
+        "gender": "Male",
+        "routine": "John is usually in bed by 12am after watching late-night shows and is up by 7:30am to jog before work.",
+        "personality": [
+            "extroverted",
+            "opinionated",
+            "gregarious"
+        ],
+        "occupation": "John is an American political journalist working for a major news network. His hours are irregular, often involving late nights.",
+        "thoughts": "John is preoccupied with the latest political scandal and is gathering information to write an exclusive article to be published next Monday.",
+        "lifestyle": "John's lifestyle is fast-paced with many social events. He prefers high-protein meals and often dines out. He seldom cooks but loves barbecuing on weekends."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Noah Leclerc",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Noah Leclerc usually sleeps around 11pm and wakes at 5am to take his dog for a walk before work.",
+        "personality": [
+            "efficient",
+            "dedicated",
+            "stoic"
+        ],
+        "occupation": "Noah Leclerc is a civil engineer who works for the city government, his hours are typically from 8am to 4pm.",
+        "thoughts": "Noah Leclerc is currently overseeing a bridge construction project that reached a critical phase on February 1st.",
+        "lifestyle": "Noah Leclerc is an avid hiker and spends most of his weekends on trails or planning his next outdoor adventure."
+    },
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Liam Murphy",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Liam goes to bed at around 10:30pm and wakes up at 6am to take his dog for a run.",
+        "personality": [
+            "reliable",
+            "warm",
+            "focused"
+        ],
+        "occupation": "Liam is a secondary school teacher, teaching history. He works from 8am to 4pm and occasionally tutors in the evenings.",
+        "thoughts": "He's been excitedly setting up a new interactive history exhibit for his students, with the launch happening on February 4th, 2024.",
+        "lifestyle": "Liam opts for a hearty Irish diet with an appreciation for stews and bread. He enjoys woodworking in his shed as a form of relaxation and often experiments with crafting traditional furniture. His home reflects a rustic and cozy d\u00e9cor theme."
+    }
+]

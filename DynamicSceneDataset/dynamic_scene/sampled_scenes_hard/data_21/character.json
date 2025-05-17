@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Aarav Patil",
+        "age": 17,
+        "gender": "Male",
+        "routine": "Aarav typically sleeps by 10pm and wakes up at 6am for school.",
+        "personality": [
+            "studious",
+            "curious",
+            "disciplined"
+        ],
+        "occupation": "Aarav is a high school student who is preparing for university entrance exams.",
+        "thoughts": "Lately, he's been worried about his chemistry exam on February 2nd, 2024, and has been studying extra hours after school to prepare.",
+        "lifestyle": "Aarav follows a vegetarian Indian diet and practices yoga every evening. He prefers to study in a quiet room and enjoys taking long walks as a study break. His room is equipped with minimal technology, as he tries to avoid distractions."
+    },
+    {
+        "name": "Raakel Vartiainen",
+        "age": 28,
+        "gender": "Female",
+        "routine": "Raakel sleeps at around 12am and wakes up at 7am, then cycles to her studio.",
+        "personality": [
+            "innovative",
+            "independent",
+            "resilient"
+        ],
+        "occupation": "Raakel is a graphic designer in Helsinki, typically working from 9 am to 5 pm at a local firm.",
+        "thoughts": "She's excited about her new freelance project which will start rolling out on February 2nd, 2024, but also a bit nervous about balancing the additional workload.",
+        "lifestyle": "Raakel prefers minimalistic living, enjoys foraging and cooking with locally-sourced ingredients, and loves to unwind with indie music on vinyl."
+    }
+]

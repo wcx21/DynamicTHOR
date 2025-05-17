@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Sophia Petrova",
+        "age": 38,
+        "gender": "Female",
+        "routine": "Sophia Petrova usually sleeps around 11:30pm and wakes up at 7am to prepare breakfast for her family.",
+        "personality": [
+            "compassionate",
+            "determined",
+            "imaginative"
+        ],
+        "occupation": "Sophia Petrova is a professional photographer. She has photoshoots scheduled at various times, including weekends.",
+        "thoughts": "Sophia Petrova is currently editing photos from a wedding she shot on February 2nd and is excited about an upcoming art gallery exhibit.",
+        "lifestyle": "Sophia Petrova enjoys the arts, loves attending theatre performances, and often experiments with vegan cooking recipes."
+    },
+    {
+        "name": "Anya Petrova",
+        "age": 28,
+        "gender": "Female",
+        "routine": "Anya sleeps at 11:15 pm and wakes up at 6:50 am to walk her Siberian Husky.",
+        "personality": [
+            "outgoing",
+            "adventurous",
+            "resilient"
+        ],
+        "occupation": "Anya Petrova is a travel blogger who is typically on the move but spends her home days writing and editing content.",
+        "thoughts": "She's planning her next trip to the Siberian wilderness, slated to start on February 4th, 2024.",
+        "lifestyle": "An adventurous lifestyle with a preference for extreme sports and outdoor activities influences her minimalist home needs."
+    },
+    {
+        "name": "Liam Taylor",
+        "age": 20,
+        "gender": "Male",
+        "routine": "Liam is a college student who sleeps around 1am after late-night study sessions and wakes up at 8am for classes.",
+        "personality": [
+            "innovative",
+            "independent",
+            "social"
+        ],
+        "occupation": "Liam is studying computer science in Sydney, with classes often scattered throughout the day.",
+        "thoughts": "Liam has been brainstorming a new mobile app idea for his entrepreneurship course and is planning a pitch to potential on the weekend.",
+        "lifestyle": "Liam enjoys a casual lifestyle, prefers takeaway food, is active in the tech community, and loves surfing on weekends."
+    },
+    {
+        "name": "Isabella Martinez",
+        "age": 33,
+        "gender": "Female",
+        "routine": "Isabella Martinez usually falls asleep by 10:30pm and wakes up at 5:30am for her morning run.",
+        "personality": [
+            "disciplined",
+            "outgoing",
+            "optimistic"
+        ],
+        "occupation": "Isabella Martinez is a high school teacher who teaches Spanish. Her working hours are from 8am to 3pm on weekdays.",
+        "thoughts": "Isabella Martinez is considering enrolling in a Master's degree in Education to enhance her career and was researching programs over the weekend.",
+        "lifestyle": "Isabella Martinez enjoys social gatherings and frequently invites friends over for dinner parties which often include traditional Latin dancing."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Geoffrey Atkins",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Geoffrey goes to bed at 9pm and is up by 5:00 am to take his dog for a walk.",
+        "personality": [
+            "calm",
+            "reflective",
+            "steady"
+        ],
+        "occupation": "Now retired, Geoffrey was a history professor and spends his time writing articles and giving guest lectures.",
+        "thoughts": "He is preparing a lecture on modern history to be delivered on the 3rd of February, 2024, which brings back memories of his teaching days.",
+        "lifestyle": "Geoffrey enjoys a slow-paced lifestyle, often reads historical biographies, and has a preference for classical music and quiet evenings with a glass of fine whiskey."
+    },
+    {
+        "name": "Carlos Rodriguez",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Carlos enjoys a restful sleep from 10:30pm to 6am, then spends an hour reading the newspaper before starting his day.",
+        "personality": [
+            "wise",
+            "communicative",
+            "generous"
+        ],
+        "occupation": "Carlos is a retired banker in Madrid, but he often provides financial advice to friends and family.",
+        "thoughts": "Carlos is concerned about the fluctuating European markets and is considering adjusting his investment portfolio.",
+        "lifestyle": "Carlos loves Spanish cuisine, particularly tapas, and cultivates his own vegetables for his cooking. He enjoys long walks with his dog and afternoon siestas."
+    }
+]

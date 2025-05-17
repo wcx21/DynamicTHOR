@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Chen Wei",
+        "age": 28,
+        "gender": "Male",
+        "routine": "Chen Wei sleeps around 11:30 pm and wakes up at 7:00 am to get to his engineering job.",
+        "personality": [
+            "analytical",
+            "meticulous",
+            "practical"
+        ],
+        "occupation": "Chen Wei is a civil engineer who works on infrastructure projects, with a steady 9-to-5 job at a construction company.",
+        "thoughts": "Chen Wei spent the weekend of 2024-02-03 assisting in the planning of his sister's wedding, which, despite the stress, he enjoyed thoroughly.",
+        "lifestyle": "Chen prefers a minimalistic home environment and engages in evening indoor rock climbing sessions for his health and pleasure."
+    },
+    {
+        "name": "Anya Petrova",
+        "age": 28,
+        "gender": "Female",
+        "routine": "Anya sleeps at 11:15 pm and wakes up at 6:50 am to walk her Siberian Husky.",
+        "personality": [
+            "outgoing",
+            "adventurous",
+            "resilient"
+        ],
+        "occupation": "Anya Petrova is a travel blogger who is typically on the move but spends her home days writing and editing content.",
+        "thoughts": "She's planning her next trip to the Siberian wilderness, slated to start on February 4th, 2024.",
+        "lifestyle": "An adventurous lifestyle with a preference for extreme sports and outdoor activities influences her minimalist home needs."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ethan Ngugi",
+        "age": 21,
+        "gender": "Male",
+        "routine": "Ethan Ngugi generally goes to sleep at 1am and wakes up at 10am, as his university classes start late.",
+        "personality": [
+            "adventurous",
+            "energetic",
+            "charismatic"
+        ],
+        "occupation": "Ethan Ngugi is an architecture student and works part-time at a local design studio.",
+        "thoughts": "Ethan Ngugi is excited about a design competition he entered, with results being announced on February 3rd.",
+        "lifestyle": "Ethan Ngugi is very active on social media and enjoys urban exploration with his friends in their free time."
+    },
+    {
+        "name": "Takeshi Kobayashi",
+        "age": 52,
+        "gender": "Male",
+        "routine": "Takeshi goes to bed by 11pm and wakes up by 5am to tend to his small garden",
+        "personality": [
+            "disciplined",
+            "innovative",
+            "trustworthy"
+        ],
+        "occupation": "Takeshi is a robotics engineer, usually at his lab from 9 am until 7 pm.",
+        "thoughts": "Recently, he's been obsessed with the potential of AI in elder care, daydreaming about this on the morning of February 1st, 2024.",
+        "lifestyle": "Takeshi enjoys precision in his work and leisure, follows a predominantly Japanese diet with occasional Western influences, and has an appreciation for jazz music."
+    },
+    {
+        "name": "Parvati Singh",
+        "age": 26,
+        "gender": "Female",
+        "routine": "Parvati sleeps by 10:30 pm to wake at 5 am for yoga and preparation of her healthy meals.",
+        "personality": [
+            "health-conscious",
+            "organized",
+            "determined"
+        ],
+        "occupation": "Parvati Singh is a nutritionist who consults with clients at a wellness center from 9 am to 6 pm.",
+        "thoughts": "She's recently engaging in a personal challenge to go zero waste and reduce her environmental impact.",
+        "lifestyle": "Parvati's lifestyle is centered around wellness and sustainability, influencing her preference for eco-friendly home products."
+    }
+]

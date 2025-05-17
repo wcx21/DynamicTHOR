@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Lina Araya",
+        "age": 15,
+        "gender": "Female",
+        "routine": "Lina Araya sleeps at around 10pm and wakes up at 6:30 am for school.",
+        "personality": [
+            "adventurous",
+            "bright",
+            "social"
+        ],
+        "occupation": "Lina is a high school student, with before-school soccer practice and study sessions occupying her weekdays.",
+        "thoughts": "She has been admiring the new mural in her school's art department, completed on February 2nd, 2024, and is inspired to join the art club.",
+        "lifestyle": "Lina favors Central American dishes, spends her free time exploring the city with friends, and is always on the lookout for new experiences."
+    },
+    {
+        "name": "Liam Murphy",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Liam goes to bed at around 10:30pm and wakes up at 6am to take his dog for a run.",
+        "personality": [
+            "reliable",
+            "warm",
+            "focused"
+        ],
+        "occupation": "Liam is a secondary school teacher, teaching history. He works from 8am to 4pm and occasionally tutors in the evenings.",
+        "thoughts": "He's been excitedly setting up a new interactive history exhibit for his students, with the launch happening on February 4th, 2024.",
+        "lifestyle": "Liam opts for a hearty Irish diet with an appreciation for stews and bread. He enjoys woodworking in his shed as a form of relaxation and often experiments with crafting traditional furniture. His home reflects a rustic and cozy d\u00e9cor theme."
+    },
+    {
+        "name": "Carlos Rodriguez",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Carlos enjoys a restful sleep from 10:30pm to 6am, then spends an hour reading the newspaper before starting his day.",
+        "personality": [
+            "wise",
+            "communicative",
+            "generous"
+        ],
+        "occupation": "Carlos is a retired banker in Madrid, but he often provides financial advice to friends and family.",
+        "thoughts": "Carlos is concerned about the fluctuating European markets and is considering adjusting his investment portfolio.",
+        "lifestyle": "Carlos loves Spanish cuisine, particularly tapas, and cultivates his own vegetables for his cooking. He enjoys long walks with his dog and afternoon siestas."
+    },
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    }
+]

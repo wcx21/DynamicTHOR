@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Liam Murphy",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Liam goes to bed at around 10:30pm and wakes up at 6am to take his dog for a run.",
+        "personality": [
+            "reliable",
+            "warm",
+            "focused"
+        ],
+        "occupation": "Liam is a secondary school teacher, teaching history. He works from 8am to 4pm and occasionally tutors in the evenings.",
+        "thoughts": "He's been excitedly setting up a new interactive history exhibit for his students, with the launch happening on February 4th, 2024.",
+        "lifestyle": "Liam opts for a hearty Irish diet with an appreciation for stews and bread. He enjoys woodworking in his shed as a form of relaxation and often experiments with crafting traditional furniture. His home reflects a rustic and cozy d\u00e9cor theme."
+    },
+    {
+        "name": "Sinead Byrne",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sinead typically sleeps at 10pm and wakes up at 6am, fitting in a quick yoga session before work.",
+        "personality": [
+            "outgoing",
+            "empathetic",
+            "resourceful"
+        ],
+        "occupation": "Sinead is a primary school teacher in Ireland with working hours from 8:30 am to 3:30 pm.",
+        "thoughts": "She's been planning a new outdoor learning program for her students and is excited to propose it at the staff meeting on 2nd February 2024.",
+        "lifestyle": "Sinead favors wholesome, organic meals, enjoys weekend hikes, and has her living space filled with plants and natural light."
+    },
+    {
+        "name": "Aleksey Chernov",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Aleksey Chernov sleeps at 12am and wakes at 7am to walk his dog.",
+        "personality": [
+            "stoic",
+            "determined",
+            "focused"
+        ],
+        "occupation": "Aleksey is a computer security analyst who works a standard 9 am to 5 pm day.",
+        "thoughts": "He is anxious about a server breach his company faced and has been working extra hours since February 1st, 2024, to resolve the situation.",
+        "lifestyle": "He prefers hearty Russian meals, relaxes by ice fishing on weekends, and has a functional and straightforward home setup."
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "name": "Aleksey Chernov",
+    "age": 34,
+    "gender": "Male",
+    "routine": "Aleksey Chernov sleeps at 12am and wakes at 7am to walk his dog.",
+    "personality": [
+        "stoic",
+        "determined",
+        "focused"
+    ],
+    "occupation": "Aleksey is a computer security analyst who works a standard 9 am to 5 pm day.",
+    "thoughts": "He is anxious about a server breach his company faced and has been working extra hours since February 1st, 2024, to resolve the situation.",
+    "lifestyle": "He prefers hearty Russian meals, relaxes by ice fishing on weekends, and has a functional and straightforward home setup."
+}

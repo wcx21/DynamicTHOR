@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    },
+    {
+        "name": "Sophia Petrova",
+        "age": 38,
+        "gender": "Female",
+        "routine": "Sophia Petrova usually sleeps around 11:30pm and wakes up at 7am to prepare breakfast for her family.",
+        "personality": [
+            "compassionate",
+            "determined",
+            "imaginative"
+        ],
+        "occupation": "Sophia Petrova is a professional photographer. She has photoshoots scheduled at various times, including weekends.",
+        "thoughts": "Sophia Petrova is currently editing photos from a wedding she shot on February 2nd and is excited about an upcoming art gallery exhibit.",
+        "lifestyle": "Sophia Petrova enjoys the arts, loves attending theatre performances, and often experiments with vegan cooking recipes."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Parvati Singh",
+        "age": 26,
+        "gender": "Female",
+        "routine": "Parvati sleeps by 10:30 pm to wake at 5 am for yoga and preparation of her healthy meals.",
+        "personality": [
+            "health-conscious",
+            "organized",
+            "determined"
+        ],
+        "occupation": "Parvati Singh is a nutritionist who consults with clients at a wellness center from 9 am to 6 pm.",
+        "thoughts": "She's recently engaging in a personal challenge to go zero waste and reduce her environmental impact.",
+        "lifestyle": "Parvati's lifestyle is centered around wellness and sustainability, influencing her preference for eco-friendly home products."
+    },
+    {
+        "name": "Kaoru Tanaka",
+        "age": 60,
+        "gender": "Female",
+        "routine": "Kaoru sleeps by 9pm and is up at 5am for her morning rituals and exercises.",
+        "personality": [
+            "wise",
+            "organized",
+            "gentle"
+        ],
+        "occupation": "She is a retired librarian who now volunteers at the community center twice a week.",
+        "thoughts": "Kaoru has been contemplating starting a book club in her neighborhood and sets aside time each morning to plan it out, aiming to launch it after the spring festival on February 3rd, 2024.",
+        "lifestyle": "She adheres to a traditional Japanese diet and enjoys the tea ceremony. Kaoru cherishes her quiet time, often spent in her meticulously kept garden. She prefers wearing comfortable clothing that allows for easy movement during her tai chi sessions."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Liam Taylor",
+        "age": 20,
+        "gender": "Male",
+        "routine": "Liam is a college student who sleeps around 1am after late-night study sessions and wakes up at 8am for classes.",
+        "personality": [
+            "innovative",
+            "independent",
+            "social"
+        ],
+        "occupation": "Liam is studying computer science in Sydney, with classes often scattered throughout the day.",
+        "thoughts": "Liam has been brainstorming a new mobile app idea for his entrepreneurship course and is planning a pitch to potential on the weekend.",
+        "lifestyle": "Liam enjoys a casual lifestyle, prefers takeaway food, is active in the tech community, and loves surfing on weekends."
+    },
+    {
+        "name": "Elena Petrova",
+        "age": 34,
+        "gender": "Female",
+        "routine": "Elena sleeps at 10pm and wakes up at 6am to prepare her children for school before heading to work.",
+        "personality": [
+            "warm",
+            "organized",
+            "resilient"
+        ],
+        "occupation": "Elena is a high school teacher, teaching history in St. Petersburg. Her school day starts at 8 am and ends at 3 pm.",
+        "thoughts": "Elena recently has been concerned about her son's performance in school and is considering getting him a tutor. She plans to discuss this with her husband over the weekend.",
+        "lifestyle": "Elena follows a typical Russian cuisine, enjoys classical music to unwind, and spends her weekends at the local park with her family. She prefers reading historical novels in her spare time."
+    },
+    {
+        "name": "Jia Li",
+        "age": 47,
+        "gender": "Female",
+        "routine": "Jia Li typically sleeps at 11:30 pm and wakes at 6:30 am to practice tai chi.",
+        "personality": [
+            "meticulous",
+            "compassionate",
+            "practical"
+        ],
+        "occupation": "She manages a traditional Chinese medicine clinic and works from 8 am to 6 pm.",
+        "thoughts": "Lately, she's been pondering about ways to integrate technology into her practice to reach more people, especially after reading a relevant article on February 1st, 2024.",
+        "lifestyle": "Jia Li enjoys a balance of yin and yang in her diet, practices meditation, and always brews herself a pot of oolong tea while working."
+    }
+]

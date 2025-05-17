@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Anya Petrova",
+        "age": 28,
+        "gender": "Female",
+        "routine": "Anya sleeps at 11:15 pm and wakes up at 6:50 am to walk her Siberian Husky.",
+        "personality": [
+            "outgoing",
+            "adventurous",
+            "resilient"
+        ],
+        "occupation": "Anya Petrova is a travel blogger who is typically on the move but spends her home days writing and editing content.",
+        "thoughts": "She's planning her next trip to the Siberian wilderness, slated to start on February 4th, 2024.",
+        "lifestyle": "An adventurous lifestyle with a preference for extreme sports and outdoor activities influences her minimalist home needs."
+    },
+    {
+        "name": "Irina Smirnov",
+        "age": 43,
+        "gender": "Female",
+        "routine": "Irina goes to sleep by 11 pm and wakes up at 6 am to prepare breakfast for her family.",
+        "personality": [
+            "dedicated",
+            "nurturing",
+            "resourceful"
+        ],
+        "occupation": "Irina Smirnov is the owner of a small bookstore and usually opens the shop at 10 am after dropping her kids off at school.",
+        "thoughts": "Irina was planning a special Valentine's Day book signing event in her store on 2024-02-04 with a local author.",
+        "lifestyle": "Irina enjoys a cozy lifestyle, often hosting intimate gatherings with friends and family, always accompanied by her home-cooked meals."
+    }
+]

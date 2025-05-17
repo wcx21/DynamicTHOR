@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Mia Kuznetsova",
+        "age": 17,
+        "gender": "Female",
+        "routine": "Mia Kuznetsova goes to bed no later than 11pm and wakes up at 6:30am to get ready for school.",
+        "personality": [
+            "curious",
+            "studious",
+            "helpful"
+        ],
+        "occupation": "Mia Kuznetsova is a high school student with aspirations to become a biomedical engineer.",
+        "thoughts": "Mia Kuznetsova is nervous about her upcoming final exams in the afternoon of February 2nd, especially in calculus, and has been studying diligently.",
+        "lifestyle": "Mia Kuznetsova enjoys volunteering at her local community center on weekends and likes cycling as her main form of exercise."
+    },
+    {
+        "name": "Emeka Nwabueze",
+        "age": 35,
+        "gender": "Male",
+        "routine": "Emeka usually sleeps by 10pm and wakes up at 5:30 am to start his day with meditation and journaling.",
+        "personality": [
+            "thoughtful",
+            "disciplined",
+            "passionate"
+        ],
+        "occupation": "Emeka is a civil engineer who works primarily on infrastructure projects across Africa.",
+        "thoughts": "Recently, Emeka has been considering a proposal for a new project in Ghana, which he must decide on by February 4th, 2024. This decision weighs heavily on him, as it impacts his family time.",
+        "lifestyle": "Emeka follows a predominantly plant-based diet, enjoys long runs on the weekend, and has a love for Afrobeat music. He values a clean and organized living space and frequently rearranges furniture to optimize the flow of his home."
+    },
+    {
+        "name": "Tariq Al Zahid",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Tariq usually sleeps around 2 am after studying and wakes up at 9 am for university classes.",
+        "personality": [
+            "ambitious",
+            "curious",
+            "energetic"
+        ],
+        "occupation": "Tariq Al Zahid is a medical student who spends the majority of his day in lectures, labs, and studying.",
+        "thoughts": "He's been worrying about his upcoming exams starting on February 2nd, 2024.",
+        "lifestyle": "As a student, Tariq leads a hectic lifestyle focused on learning, with little time for home activities."
+    },
+    {
+        "name": "Geoffrey Atkins",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Geoffrey goes to bed at 9pm and is up by 5:00 am to take his dog for a walk.",
+        "personality": [
+            "calm",
+            "reflective",
+            "steady"
+        ],
+        "occupation": "Now retired, Geoffrey was a history professor and spends his time writing articles and giving guest lectures.",
+        "thoughts": "He is preparing a lecture on modern history to be delivered on the 3rd of February, 2024, which brings back memories of his teaching days.",
+        "lifestyle": "Geoffrey enjoys a slow-paced lifestyle, often reads historical biographies, and has a preference for classical music and quiet evenings with a glass of fine whiskey."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chen Wei",
+        "age": 28,
+        "gender": "Male",
+        "routine": "Chen Wei sleeps around 11:30 pm and wakes up at 7:00 am to get to his engineering job.",
+        "personality": [
+            "analytical",
+            "meticulous",
+            "practical"
+        ],
+        "occupation": "Chen Wei is a civil engineer who works on infrastructure projects, with a steady 9-to-5 job at a construction company.",
+        "thoughts": "Chen Wei spent the weekend of 2024-02-03 assisting in the planning of his sister's wedding, which, despite the stress, he enjoyed thoroughly.",
+        "lifestyle": "Chen prefers a minimalistic home environment and engages in evening indoor rock climbing sessions for his health and pleasure."
+    },
+    {
+        "name": "Sunita Verma",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sunita Verma sleeps by 12 am and wakes at 7 am to prepare her kids for school.",
+        "personality": [
+            "warm",
+            "nurturing",
+            "efficient"
+        ],
+        "occupation": "Sunita Verma is a software developer who often works remotely to balance her job and household responsibilities.",
+        "thoughts": "She's excited about her daughter's dance recital scheduled for February 1st, 2024.",
+        "lifestyle": "Sunita leads a busy, family-oriented lifestyle and prefers cooking at home over dining out."
+    },
+    {
+        "name": "Leila Zahra",
+        "age": 19,
+        "gender": "Female",
+        "routine": "Leila is a night owl, often sleeping at 2am and waking up at 10am, just in time for her college classes.",
+        "personality": [
+            "vivacious",
+            "inquisitive",
+            "bold"
+        ],
+        "occupation": "She's an undergraduate studying International Relations with a keen interest in humanitarian work.",
+        "thoughts": "Leila has been excited about the Model UN event scheduled for February 2nd, 2024, where she will represent her views on global peace.",
+        "lifestyle": "She enjoys a vibrant dorm life, is always eager to try out new cuisines, and stays active by participating in campus social events."
+    }
+]

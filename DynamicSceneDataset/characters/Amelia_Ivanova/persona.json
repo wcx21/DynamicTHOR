@@ -1,0 +1,14 @@
+{
+    "name": "Amelia Ivanova",
+    "age": 32,
+    "gender": "Female",
+    "routine": "Amelia Ivanova goes to bed at 10pm and wakes up at 6am to have time for herself before her kids wake up.",
+    "personality": [
+        "meticulous",
+        "hardworking",
+        "kind"
+    ],
+    "occupation": "Amelia Ivanova is a software engineer working with a major tech company with a standard 9am to 5pm workday.",
+    "thoughts": "Amelia Ivanova is brainstorming ideas for a new app she hopes to develop on her own.",
+    "lifestyle": "Amelia Ivanova enjoys gardening on weekends and is learning to play the piano in her spare time."
+}

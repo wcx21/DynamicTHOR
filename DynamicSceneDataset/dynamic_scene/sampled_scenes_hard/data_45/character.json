@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Mia Kuznetsova",
+        "age": 17,
+        "gender": "Female",
+        "routine": "Mia Kuznetsova goes to bed no later than 11pm and wakes up at 6:30am to get ready for school.",
+        "personality": [
+            "curious",
+            "studious",
+            "helpful"
+        ],
+        "occupation": "Mia Kuznetsova is a high school student with aspirations to become a biomedical engineer.",
+        "thoughts": "Mia Kuznetsova is nervous about her upcoming final exams in the afternoon of February 2nd, especially in calculus, and has been studying diligently.",
+        "lifestyle": "Mia Kuznetsova enjoys volunteering at her local community center on weekends and likes cycling as her main form of exercise."
+    },
+    {
+        "name": "Riku Tanaka",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Riku Tanaka goes to bed at around 1 am and wakes up at 8 am to catch his first class.",
+        "personality": [
+            "curious",
+            "energetic",
+            "innovative"
+        ],
+        "occupation": "He is a university student majoring in robotics, with classes usually from 10 am to 5 pm.",
+        "thoughts": "Recently, he has been focusing on preparing for a robotics competition that was taking place on February 3rd, 2024.",
+        "lifestyle": "Riku enjoys Japanese cuisine, often experiments with cooking, prefers high-tech gadgets, and his hobbies include gaming and manga."
+    },
+    {
+        "name": "Elise Martin",
+        "age": 31,
+        "gender": "Female",
+        "routine": "Elise is usually in bed by 10pm and wakes up at 5:45am for an early morning run.",
+        "personality": [
+            "determined",
+            "articulate",
+            "resourceful"
+        ],
+        "occupation": "Elise works as a civil lawyer and spends her workdays from 9am to 6pm in court or preparing cases in her office.",
+        "thoughts": "She has been pondering the implications of a recent ruling and is preparing an appeal to submit by February 4th, 2024.",
+        "lifestyle": "Following a mostly vegan diet, Elise enjoys fresh, farm-to-table meals and takes pride in her urban gardening project. For relaxation, she prefers reading legal thrillers and practices mindfulness meditation to manage her stressful work life."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Carter",
+        "age": 44,
+        "gender": "Male",
+        "routine": "John is usually in bed by 12am after watching late-night shows and is up by 7:30am to jog before work.",
+        "personality": [
+            "extroverted",
+            "opinionated",
+            "gregarious"
+        ],
+        "occupation": "John is an American political journalist working for a major news network. His hours are irregular, often involving late nights.",
+        "thoughts": "John is preoccupied with the latest political scandal and is gathering information to write an exclusive article to be published next Monday.",
+        "lifestyle": "John's lifestyle is fast-paced with many social events. He prefers high-protein meals and often dines out. He seldom cooks but loves barbecuing on weekends."
+    },
+    {
+        "name": "Aleksey Chernov",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Aleksey Chernov sleeps at 12am and wakes at 7am to walk his dog.",
+        "personality": [
+            "stoic",
+            "determined",
+            "focused"
+        ],
+        "occupation": "Aleksey is a computer security analyst who works a standard 9 am to 5 pm day.",
+        "thoughts": "He is anxious about a server breach his company faced and has been working extra hours since February 1st, 2024, to resolve the situation.",
+        "lifestyle": "He prefers hearty Russian meals, relaxes by ice fishing on weekends, and has a functional and straightforward home setup."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Jia Li",
+        "age": 47,
+        "gender": "Female",
+        "routine": "Jia Li typically sleeps at 11:30 pm and wakes at 6:30 am to practice tai chi.",
+        "personality": [
+            "meticulous",
+            "compassionate",
+            "practical"
+        ],
+        "occupation": "She manages a traditional Chinese medicine clinic and works from 8 am to 6 pm.",
+        "thoughts": "Lately, she's been pondering about ways to integrate technology into her practice to reach more people, especially after reading a relevant article on February 1st, 2024.",
+        "lifestyle": "Jia Li enjoys a balance of yin and yang in her diet, practices meditation, and always brews herself a pot of oolong tea while working."
+    },
+    {
+        "name": "Thomas Reed",
+        "age": 31,
+        "gender": "Male",
+        "routine": "Thomas usually goes to bed by 9:30 pm and wakes up at 4:45 am for his cycling training.",
+        "personality": [
+            "competitive",
+            "focused",
+            "disciplined"
+        ],
+        "occupation": "Thomas Reed is a professional cyclist with rigorous training schedules that often take him away from home.",
+        "thoughts": "Thomas was looking forward to an upcoming racing event and spent much of February 2, 2024, strategizing with his coach.",
+        "lifestyle": "Thomas adheres to a strict training regimen, often undergoing physiotherapy, and has a preference for high-protein meals."
+    }
+]

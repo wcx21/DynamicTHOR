@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Carlos Rodriguez",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Carlos enjoys a restful sleep from 10:30pm to 6am, then spends an hour reading the newspaper before starting his day.",
+        "personality": [
+            "wise",
+            "communicative",
+            "generous"
+        ],
+        "occupation": "Carlos is a retired banker in Madrid, but he often provides financial advice to friends and family.",
+        "thoughts": "Carlos is concerned about the fluctuating European markets and is considering adjusting his investment portfolio.",
+        "lifestyle": "Carlos loves Spanish cuisine, particularly tapas, and cultivates his own vegetables for his cooking. He enjoys long walks with his dog and afternoon siestas."
+    },
+    {
+        "name": "Carlos Mendoza",
+        "age": 51,
+        "gender": "Male",
+        "routine": "Carlos usually sleeps by midnight and wakes up at 7 am to take his dogs for a run.",
+        "personality": [
+            "sociable",
+            "passionate",
+            "generous"
+        ],
+        "occupation": "Carlos Mendoza is a chef who runs his own restaurant with hours usually from 3 pm to 11 pm.",
+        "thoughts": "He's contemplating a new menu change that he aims to introduce by February 3rd, 2024.",
+        "lifestyle": "Carlos enjoys a convivial lifestyle, loves hosting dinner parties, and prefers fresh, artisanal ingredients in his kitchen."
+    }
+]

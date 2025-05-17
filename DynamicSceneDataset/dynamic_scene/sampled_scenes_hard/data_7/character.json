@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Amir Patel",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Amir usually goes to sleep by 10:30 pm and wakes up at 5:30 am for his morning run.",
+        "personality": [
+            "driven",
+            "pragmatic",
+            "social"
+        ],
+        "occupation": "Amir Patel is a financial analyst for a multinational corporation, often working from 9 am to 6 pm in his downtown office.",
+        "thoughts": "Amir has been contemplating investing in cryptocurrency and spent the evening of 2024-02-03 researching the latest market trends.",
+        "lifestyle": "Amir is a fitness enthusiast who enjoys meal prepping and follows a strict dietary plan; he seldom eats out."
+    },
+    {
+        "name": "Amelia Ivanova",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Amelia Ivanova goes to bed at 10pm and wakes up at 6am to have time for herself before her kids wake up.",
+        "personality": [
+            "meticulous",
+            "hardworking",
+            "kind"
+        ],
+        "occupation": "Amelia Ivanova is a software engineer working with a major tech company with a standard 9am to 5pm workday.",
+        "thoughts": "Amelia Ivanova is brainstorming ideas for a new app she hopes to develop on her own.",
+        "lifestyle": "Amelia Ivanova enjoys gardening on weekends and is learning to play the piano in her spare time."
+    },
+    {
+        "name": "Eduardo Silva",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Eduardo usually sleeps at 12am and wakes up at 7am to jog before breakfast.",
+        "personality": [
+            "sociable",
+            "easygoing",
+            "practical",
+            "generous"
+        ],
+        "occupation": "Eduardo is an architect who works in a collaborative environment at a design firm. He works from 9am to 6pm, with some evenings dedicated to networking events.",
+        "thoughts": "Eduardo has been considering a renovation project for his home office to make it more sustainable. He intends to start planning on the weekend of February 4th, 2024.",
+        "lifestyle": "He enjoys a Mediterranean diet, rich in fruits and vegetables. He prefers cycling over other forms of transportation and loves outdoor activities like hiking and beach volleyball. Eduardo is not fond of electronic gadgets and tends to stick to the basics."
+    },
+    {
+        "name": "Riku Tanaka",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Riku Tanaka goes to bed at around 1 am and wakes up at 8 am to catch his first class.",
+        "personality": [
+            "curious",
+            "energetic",
+            "innovative"
+        ],
+        "occupation": "He is a university student majoring in robotics, with classes usually from 10 am to 5 pm.",
+        "thoughts": "Recently, he has been focusing on preparing for a robotics competition that was taking place on February 3rd, 2024.",
+        "lifestyle": "Riku enjoys Japanese cuisine, often experiments with cooking, prefers high-tech gadgets, and his hobbies include gaming and manga."
+    }
+]

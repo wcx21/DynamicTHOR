@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Isabella Martinez",
+        "age": 33,
+        "gender": "Female",
+        "routine": "Isabella Martinez usually falls asleep by 10:30pm and wakes up at 5:30am for her morning run.",
+        "personality": [
+            "disciplined",
+            "outgoing",
+            "optimistic"
+        ],
+        "occupation": "Isabella Martinez is a high school teacher who teaches Spanish. Her working hours are from 8am to 3pm on weekdays.",
+        "thoughts": "Isabella Martinez is considering enrolling in a Master's degree in Education to enhance her career and was researching programs over the weekend.",
+        "lifestyle": "Isabella Martinez enjoys social gatherings and frequently invites friends over for dinner parties which often include traditional Latin dancing."
+    },
+    {
+        "name": "Riku Tanaka",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Riku Tanaka goes to bed at around 1 am and wakes up at 8 am to catch his first class.",
+        "personality": [
+            "curious",
+            "energetic",
+            "innovative"
+        ],
+        "occupation": "He is a university student majoring in robotics, with classes usually from 10 am to 5 pm.",
+        "thoughts": "Recently, he has been focusing on preparing for a robotics competition that was taking place on February 3rd, 2024.",
+        "lifestyle": "Riku enjoys Japanese cuisine, often experiments with cooking, prefers high-tech gadgets, and his hobbies include gaming and manga."
+    }
+]

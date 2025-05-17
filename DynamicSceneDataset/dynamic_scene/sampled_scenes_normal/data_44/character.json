@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Parvati Singh",
+        "age": 26,
+        "gender": "Female",
+        "routine": "Parvati sleeps by 10:30 pm to wake at 5 am for yoga and preparation of her healthy meals.",
+        "personality": [
+            "health-conscious",
+            "organized",
+            "determined"
+        ],
+        "occupation": "Parvati Singh is a nutritionist who consults with clients at a wellness center from 9 am to 6 pm.",
+        "thoughts": "She's recently engaging in a personal challenge to go zero waste and reduce her environmental impact.",
+        "lifestyle": "Parvati's lifestyle is centered around wellness and sustainability, influencing her preference for eco-friendly home products."
+    },
+    {
+        "name": "Miyuki Tanaka",
+        "age": 55,
+        "gender": "Female",
+        "routine": "Miyuki sleeps by 9pm and wakes up at 5am to meditate and practice tai chi.",
+        "personality": [
+            "disciplined",
+            "hospitable",
+            "graceful"
+        ],
+        "occupation": "Miyuki is a tea ceremony master in Kyoto, teaching classes from 10am to 4pm.",
+        "thoughts": "Miyuki is looking forward to her daughter visiting from Tokyo next week, planning to host a special family tea ceremony.",
+        "lifestyle": "Miyuki lives a minimalist lifestyle, enjoys traditional Japanese meals, and takes pride in her Zen garden, which she tends to daily."
+    }
+]

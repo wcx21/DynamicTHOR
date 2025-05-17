@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sunita Verma",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sunita Verma sleeps by 12 am and wakes at 7 am to prepare her kids for school.",
+        "personality": [
+            "warm",
+            "nurturing",
+            "efficient"
+        ],
+        "occupation": "Sunita Verma is a software developer who often works remotely to balance her job and household responsibilities.",
+        "thoughts": "She's excited about her daughter's dance recital scheduled for February 1st, 2024.",
+        "lifestyle": "Sunita leads a busy, family-oriented lifestyle and prefers cooking at home over dining out."
+    },
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Liam Taylor",
+        "age": 20,
+        "gender": "Male",
+        "routine": "Liam is a college student who sleeps around 1am after late-night study sessions and wakes up at 8am for classes.",
+        "personality": [
+            "innovative",
+            "independent",
+            "social"
+        ],
+        "occupation": "Liam is studying computer science in Sydney, with classes often scattered throughout the day.",
+        "thoughts": "Liam has been brainstorming a new mobile app idea for his entrepreneurship course and is planning a pitch to potential on the weekend.",
+        "lifestyle": "Liam enjoys a casual lifestyle, prefers takeaway food, is active in the tech community, and loves surfing on weekends."
+    }
+]

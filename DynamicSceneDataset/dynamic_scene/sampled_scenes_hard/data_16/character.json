@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Isabella Martinez",
+        "age": 33,
+        "gender": "Female",
+        "routine": "Isabella Martinez usually falls asleep by 10:30pm and wakes up at 5:30am for her morning run.",
+        "personality": [
+            "disciplined",
+            "outgoing",
+            "optimistic"
+        ],
+        "occupation": "Isabella Martinez is a high school teacher who teaches Spanish. Her working hours are from 8am to 3pm on weekdays.",
+        "thoughts": "Isabella Martinez is considering enrolling in a Master's degree in Education to enhance her career and was researching programs over the weekend.",
+        "lifestyle": "Isabella Martinez enjoys social gatherings and frequently invites friends over for dinner parties which often include traditional Latin dancing."
+    },
+    {
+        "name": "Sinead Byrne",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sinead typically sleeps at 10pm and wakes up at 6am, fitting in a quick yoga session before work.",
+        "personality": [
+            "outgoing",
+            "empathetic",
+            "resourceful"
+        ],
+        "occupation": "Sinead is a primary school teacher in Ireland with working hours from 8:30 am to 3:30 pm.",
+        "thoughts": "She's been planning a new outdoor learning program for her students and is excited to propose it at the staff meeting on 2nd February 2024.",
+        "lifestyle": "Sinead favors wholesome, organic meals, enjoys weekend hikes, and has her living space filled with plants and natural light."
+    },
+    {
+        "name": "Lina Araya",
+        "age": 15,
+        "gender": "Female",
+        "routine": "Lina Araya sleeps at around 10pm and wakes up at 6:30 am for school.",
+        "personality": [
+            "adventurous",
+            "bright",
+            "social"
+        ],
+        "occupation": "Lina is a high school student, with before-school soccer practice and study sessions occupying her weekdays.",
+        "thoughts": "She has been admiring the new mural in her school's art department, completed on February 2nd, 2024, and is inspired to join the art club.",
+        "lifestyle": "Lina favors Central American dishes, spends her free time exploring the city with friends, and is always on the lookout for new experiences."
+    }
+]

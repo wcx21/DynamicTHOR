@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Kwame Nkrumah",
+        "age": 29,
+        "gender": "Male",
+        "routine": "Kwame generally sleeps at 1am and wakes up at 8:30am, ready for his day.",
+        "personality": [
+            "innovative",
+            "energetic",
+            "competitive"
+        ],
+        "occupation": "Kwame is an entrepreneur who runs his own tech startup, often working late hours to meet deadlines.",
+        "thoughts": "He's been consumed with pitch preparations for venture capitalists scheduled for February 2nd, 2024.",
+        "lifestyle": "Kwame enjoys a diet rich in West African cuisine and prefers traditional dishes. He is quite health-conscious and spends his leisure time playing soccer with friends. His home office is equipped with the latest tech gadgets to keep up with his work demands."
+    },
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    },
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    }
+]

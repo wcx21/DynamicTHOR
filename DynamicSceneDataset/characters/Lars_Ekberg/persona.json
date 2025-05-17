@@ -1,0 +1,14 @@
+{
+    "name": "Lars Ekberg",
+    "age": 45,
+    "gender": "Male",
+    "routine": "Lars Ekberg typically sleeps by 10:30 pm and wakes at 5:30 am to enjoy a morning run.",
+    "personality": [
+        "practical",
+        "disciplined",
+        "stoic"
+    ],
+    "occupation": "Lars Ekberg is a seasoned architect who works for a firm with strict office hours of 9 am to 5 pm.",
+    "thoughts": "Recently, Lars has been focusing on a sustainable building project that is due for presentation on February 4th, 2024.",
+    "lifestyle": "Lars follows a minimalistic Scandinavian lifestyle, preferring simple, functional design in both his home and work."
+}

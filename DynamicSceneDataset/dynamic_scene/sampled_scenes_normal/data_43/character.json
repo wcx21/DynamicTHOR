@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Sunita Verma",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sunita Verma sleeps by 12 am and wakes at 7 am to prepare her kids for school.",
+        "personality": [
+            "warm",
+            "nurturing",
+            "efficient"
+        ],
+        "occupation": "Sunita Verma is a software developer who often works remotely to balance her job and household responsibilities.",
+        "thoughts": "She's excited about her daughter's dance recital scheduled for February 1st, 2024.",
+        "lifestyle": "Sunita leads a busy, family-oriented lifestyle and prefers cooking at home over dining out."
+    },
+    {
+        "name": "Sinead Byrne",
+        "age": 32,
+        "gender": "Female",
+        "routine": "Sinead typically sleeps at 10pm and wakes up at 6am, fitting in a quick yoga session before work.",
+        "personality": [
+            "outgoing",
+            "empathetic",
+            "resourceful"
+        ],
+        "occupation": "Sinead is a primary school teacher in Ireland with working hours from 8:30 am to 3:30 pm.",
+        "thoughts": "She's been planning a new outdoor learning program for her students and is excited to propose it at the staff meeting on 2nd February 2024.",
+        "lifestyle": "Sinead favors wholesome, organic meals, enjoys weekend hikes, and has her living space filled with plants and natural light."
+    }
+]

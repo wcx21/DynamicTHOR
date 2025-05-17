@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Lina Araya",
+        "age": 15,
+        "gender": "Female",
+        "routine": "Lina Araya sleeps at around 10pm and wakes up at 6:30 am for school.",
+        "personality": [
+            "adventurous",
+            "bright",
+            "social"
+        ],
+        "occupation": "Lina is a high school student, with before-school soccer practice and study sessions occupying her weekdays.",
+        "thoughts": "She has been admiring the new mural in her school's art department, completed on February 2nd, 2024, and is inspired to join the art club.",
+        "lifestyle": "Lina favors Central American dishes, spends her free time exploring the city with friends, and is always on the lookout for new experiences."
+    },
+    {
+        "name": "Lars Ekberg",
+        "age": 45,
+        "gender": "Male",
+        "routine": "Lars Ekberg typically sleeps by 10:30 pm and wakes at 5:30 am to enjoy a morning run.",
+        "personality": [
+            "practical",
+            "disciplined",
+            "stoic"
+        ],
+        "occupation": "Lars Ekberg is a seasoned architect who works for a firm with strict office hours of 9 am to 5 pm.",
+        "thoughts": "Recently, Lars has been focusing on a sustainable building project that is due for presentation on February 4th, 2024.",
+        "lifestyle": "Lars follows a minimalistic Scandinavian lifestyle, preferring simple, functional design in both his home and work."
+    }
+]

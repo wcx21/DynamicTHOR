@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Hyun-Soo Kim",
+        "age": 51,
+        "gender": "Male",
+        "routine": "Hyun-Soo sleeps by 11:30pm and wakes up at 6:30am to start his day with meditation and light exercise.",
+        "personality": [
+            "disciplined",
+            "respectful",
+            "strategic"
+        ],
+        "occupation": "He is the CEO of a mid-sized electronics company, with office hours typically from 9am to 7pm.",
+        "thoughts": "Hyun-Soo has been strategizing a new business model aimed at expanding into the European market, with a series of meetings arranged from February 1st to February 3rd, 2024.",
+        "lifestyle": "Hyun-Soo follows a balanced Korean diet and enjoys experimenting with fusion recipes. His home contains a mix of modern and traditional furnishings, reflecting his appreciation of both contemporary design and cultural heritage. He has a preference for classical music, often attending local symphony performances."
+    },
+    {
+        "name": "Kwame Nkrumah",
+        "age": 29,
+        "gender": "Male",
+        "routine": "Kwame generally sleeps at 1am and wakes up at 8:30am, ready for his day.",
+        "personality": [
+            "innovative",
+            "energetic",
+            "competitive"
+        ],
+        "occupation": "Kwame is an entrepreneur who runs his own tech startup, often working late hours to meet deadlines.",
+        "thoughts": "He's been consumed with pitch preparations for venture capitalists scheduled for February 2nd, 2024.",
+        "lifestyle": "Kwame enjoys a diet rich in West African cuisine and prefers traditional dishes. He is quite health-conscious and spends his leisure time playing soccer with friends. His home office is equipped with the latest tech gadgets to keep up with his work demands."
+    },
+    {
+        "name": "Kobus Botha",
+        "age": 60,
+        "gender": "Male",
+        "routine": "Kobus Botha usually goes to bed by 9pm and is up by 5am for a light workout.",
+        "personality": [
+            "wise",
+            "content",
+            "authoritative"
+        ],
+        "occupation": "Kobus is a retired wildlife conservationist, but still gives guest lectures at universities.",
+        "thoughts": "He is considering writing a memoir about his experiences and thought more seriously about it after visiting his old reserve on February 1st, 2024.",
+        "lifestyle": "Kobus enjoys a South African braai, has a deep appreciation for nature photography, and keeps a well-maintained garden."
+    }
+]

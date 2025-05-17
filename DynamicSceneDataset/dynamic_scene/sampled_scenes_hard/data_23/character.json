@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Amir Patel",
+        "age": 34,
+        "gender": "Male",
+        "routine": "Amir usually goes to sleep by 10:30 pm and wakes up at 5:30 am for his morning run.",
+        "personality": [
+            "driven",
+            "pragmatic",
+            "social"
+        ],
+        "occupation": "Amir Patel is a financial analyst for a multinational corporation, often working from 9 am to 6 pm in his downtown office.",
+        "thoughts": "Amir has been contemplating investing in cryptocurrency and spent the evening of 2024-02-03 researching the latest market trends.",
+        "lifestyle": "Amir is a fitness enthusiast who enjoys meal prepping and follows a strict dietary plan; he seldom eats out."
+    },
+    {
+        "name": "Liam Murphy",
+        "age": 38,
+        "gender": "Male",
+        "routine": "Liam goes to bed at around 10:30pm and wakes up at 6am to take his dog for a run.",
+        "personality": [
+            "reliable",
+            "warm",
+            "focused"
+        ],
+        "occupation": "Liam is a secondary school teacher, teaching history. He works from 8am to 4pm and occasionally tutors in the evenings.",
+        "thoughts": "He's been excitedly setting up a new interactive history exhibit for his students, with the launch happening on February 4th, 2024.",
+        "lifestyle": "Liam opts for a hearty Irish diet with an appreciation for stews and bread. He enjoys woodworking in his shed as a form of relaxation and often experiments with crafting traditional furniture. His home reflects a rustic and cozy d\u00e9cor theme."
+    },
+    {
+        "name": "Alexei Volkov",
+        "age": 40,
+        "gender": "Male",
+        "routine": "Alexei's bedtime is 1am, and he wakes at 8am to walk his Siberian Husky.",
+        "personality": [
+            "determined",
+            "stoic",
+            "warm-hearted"
+        ],
+        "occupation": "He is an IT specialist and works from home, usually starting his workday around 10 am.",
+        "thoughts": "Alexei has been troubleshooting a complicated network issue since February 1st, 2024, and is close to a breakthrough.",
+        "lifestyle": "He enjoys a hearty Russian diet, relaxes by ice fishing, and loves to keep his environment cozy with rich, warm textures."
+    }
+]

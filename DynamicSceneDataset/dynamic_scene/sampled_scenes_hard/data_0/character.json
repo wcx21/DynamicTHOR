@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Liam Johnson",
+        "age": 19,
+        "gender": "Male",
+        "routine": "Liam Johnson generally goes to bed around midnight and wakes up at 7am for his college classes.",
+        "personality": [
+            "inquisitive",
+            "spontaneous",
+            "friendly"
+        ],
+        "occupation": "Liam Johnson is a college sophomore studying Graphic Design. He often spends nights working on projects.",
+        "thoughts": "Liam Johnson is preparing for his mid-term exams for the week of February 1st and is feeling slightly stressed about the workload.",
+        "lifestyle": "Liam Johnson loves skateboarding and often uses it as his mode of transportation around campus and the city."
+    },
+    {
+        "name": "Carlos Mendoza",
+        "age": 51,
+        "gender": "Male",
+        "routine": "Carlos usually sleeps by midnight and wakes up at 7 am to take his dogs for a run.",
+        "personality": [
+            "sociable",
+            "passionate",
+            "generous"
+        ],
+        "occupation": "Carlos Mendoza is a chef who runs his own restaurant with hours usually from 3 pm to 11 pm.",
+        "thoughts": "He's contemplating a new menu change that he aims to introduce by February 3rd, 2024.",
+        "lifestyle": "Carlos enjoys a convivial lifestyle, loves hosting dinner parties, and prefers fresh, artisanal ingredients in his kitchen."
+    },
+    {
+        "name": "Aarav Patil",
+        "age": 17,
+        "gender": "Male",
+        "routine": "Aarav typically sleeps by 10pm and wakes up at 6am for school.",
+        "personality": [
+            "studious",
+            "curious",
+            "disciplined"
+        ],
+        "occupation": "Aarav is a high school student who is preparing for university entrance exams.",
+        "thoughts": "Lately, he's been worried about his chemistry exam on February 2nd, 2024, and has been studying extra hours after school to prepare.",
+        "lifestyle": "Aarav follows a vegetarian Indian diet and practices yoga every evening. He prefers to study in a quiet room and enjoys taking long walks as a study break. His room is equipped with minimal technology, as he tries to avoid distractions."
+    }
+]
